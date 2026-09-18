@@ -3,7 +3,7 @@ Lately, I have been contemplating dead projects and inertia. How hard is it to g
 
 ### Context switching is not a joke Jim!
 
-### And humans are good at watching sequences.
+### And humans are good at watching things ... like tv shows!
 
 ## All Systems Go
 1. show me  
