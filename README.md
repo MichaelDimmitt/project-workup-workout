@@ -5,6 +5,11 @@ Lately, I have been contemplating dead projects and inertia. How hard is it to g
 
 ### And humans are good at watching sequences.
 
+## All Systems Go
+1. show me  
+    a. up an running  
+    b. click around  
+
 ## Measure the movement
 Is this at the movement level that you want?
 
