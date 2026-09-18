@@ -20,7 +20,7 @@ It is a whole other ball game to move it into active development.
 ## Other Excercieses
 1. project evaluations  
     a. what it does  
-    b. suggested improvements
-    c. challenges / feature requests
-    d. target audience
-    e. what else ? ...
+    b. suggested improvements  
+    c. challenges / feature requests  
+    d. target audience  
+    e. what else ? ...  
